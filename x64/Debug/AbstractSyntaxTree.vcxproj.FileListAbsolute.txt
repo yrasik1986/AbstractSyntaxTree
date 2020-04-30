@@ -1,0 +1,2 @@
+d:\Education\Coursera\C++\AbstractSyntaxTree\x64\Debug\AbstractSyntaxTree.exe
+d:\Education\Coursera\C++\AbstractSyntaxTree\x64\Debug\AbstractSyntaxTree.pdb
