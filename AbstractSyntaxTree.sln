@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractSyntaxTree", "AbstractSyntaxTree.vcxproj", "{61CE4559-0350-49AE-93C5-6D797CF2BCD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SMS", "SMS\SMS.vcxproj", "{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{61CE4559-0350-49AE-93C5-6D797CF2BCD0}.Release|x64.Build.0 = Release|x64
 		{61CE4559-0350-49AE-93C5-6D797CF2BCD0}.Release|x86.ActiveCfg = Release|Win32
 		{61CE4559-0350-49AE-93C5-6D797CF2BCD0}.Release|x86.Build.0 = Release|Win32
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Debug|x64.ActiveCfg = Debug|x64
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Debug|x64.Build.0 = Debug|x64
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Debug|x86.Build.0 = Debug|Win32
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Release|x64.ActiveCfg = Release|x64
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Release|x64.Build.0 = Release|x64
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Release|x86.ActiveCfg = Release|Win32
+		{F8C9FD82-E858-4593-8466-CAB4FC3D9AD2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
